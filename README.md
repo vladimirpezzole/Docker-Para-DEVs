@@ -2,6 +2,8 @@
 
 <i>Exercícios utilizando **Docker** orientado por [Luis Machado Reis](https://github.com/luismr) </i>
 
+* [Slides Geral](https://drive.google.com/drive/folders/1evXBiO-1R9DscZ57s8bMmYj8wlYwhhSl?usp=share_link)
+
 <hr>
 <!-- 1. Docker-Para-DEVs: -->
 
@@ -36,6 +38,7 @@ Para rodar execute:
 `docker compose up -d` ou `docker-compose up -d ` 
 
 <i>(dependendo da sua versão do **Docker  Compose**)</i>
+
 
 **docker-compose.yml:**
 
