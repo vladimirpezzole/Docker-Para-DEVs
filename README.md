@@ -1,5 +1,6 @@
 # Docker-Para-DEVs
-Excercícios utilizando Docker orientado por [Luis Machado Reis](https://github.com/luismr) 
+
+<i>Exercícios utilizando **Docker** orientado por [Luis Machado Reis](https://github.com/luismr) </i>
 
 <hr>
 <!-- 1. Docker-Para-DEVs: -->
@@ -91,6 +92,12 @@ Portas utilizadas neste exercício
 **9016 => web - apache**
 
 // 
+
+Para rodar execute:
+
+`docker compose up -d` ou `docker-compose up -d ` 
+
+<i>(dependendo da sua versão do **Docker  Compose**)</i>
 
 <hr>
 <!-- 3. Docker-Para-DEVs: -->
