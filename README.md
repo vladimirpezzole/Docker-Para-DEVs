@@ -23,7 +23,9 @@ Você vai instalar AUTOMATICAMENTE cada distribuição de Linux em um container 
 <hr>
 
 Portas utilizadas neste exercício
+
 **9016 => web - apache**
+
 **9018 => web - centos**
 
 // Substitui a imagem **naqoda/centos-apache-php** que não constava mais no **docker.hub** por **identicum/centos-apache-php** //
@@ -81,8 +83,11 @@ A aplicação PHP 8 usa Banco de Dados MariaDB 10 e a interface de Administraç�
 <hr>
 
 Portas utilizadas neste exercício
+
 **9014 => web - mysql**
+
 **9015 => web - phpMyAdmin**
+
 **9016 => web - apache**
 
 // 
