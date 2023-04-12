@@ -1,7 +1,10 @@
 # Docker-Para-DEVs
 Excercícios utilizando Docker orientado por [Luis Machado Reis](https://github.com/luismr) 
 
-#### Docker-Para-DEVs 1. [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
+<hr>
+<!-- 1. Docker-Para-DEVs: -->
+#### 1. Docker-Para-DEVs: [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
+
 <hr>
 
 **References**
@@ -12,7 +15,7 @@ Imagine que você tenha que testar o comportamento de uma aplicação PHP dentro
 
 Você vai instalar AUTOMATICAMENTE cada distribuição de Linux em um container Docker, geralmente rodando na sua máquina física,  já contendo o Apache, PHP e o mod-php para fazer funcionar necessário para a tarefa.
 
-* [repositorio original](https://github.com/luismr/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros) 
+* [Repositório original](https://github.com/luismr/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros) 
 * [Slides (in portuguese)](https://docs.google.com/presentation/d/1_R1zaeQlOTERrJLcgRJpcych_2kVjmCkEJKNrsIRlFQ/edit?usp=sharing)
 * [Video (in portuguese)](https://www.youtube.com/watch?v=yWvGI-9_DJo)
 
@@ -55,6 +58,68 @@ services:
 
 <hr>
 
-#### docker-for-devs-2-php8-apache2-mysql-stack-main
-#### docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main
-#### docker-for-devs-4-php8-fpm-nginx-mysql-stack-main
+<hr>
+<!-- 2. Docker-Para-DEVs: -->
+#### 2. Docker-Para-DEVs: [docker-for-devs-2-php8-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-2-php8-apache2-mysql-stack-main)
+
+<hr>
+
+**References**
+
+...
+
+* [Repositório original](https://github.com/luismr/docker-for-devs-2-php8-apache2-mysql-stack) 
+* [Slides (in portuguese)](https://docs.google.com/presentation/d/1K0c4Op8kKbNOc3ymd0ob4YIKa5BAsGAs5ZTe4R5p_4I/edit?usp=sharing)
+* [Video (in portuguese)](https://youtu.be/kEayvleOv6E)
+
+<hr>
+
+<hr>
+<!-- 3. Docker-Para-DEVs: -->
+#### 3. Docker-Para-DEVs: [docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main)
+
+<hr>
+
+**References**
+
+...
+
+* [Repositório original](https://github.com/luismr/docker-for-devs-3-php8-xdebug-apache2-mysql-stack) 
+* [Slides (in portuguese)](https://docs.google.com/presentation/d/1s3oO_rSqlMGhkdH3pBDF_bnNH_spV_UuhJ23I1AGj5s/edit?usp=sharing)
+* [Video (in portuguese)](https://youtu.be/769V68eJnGs) 
+
+<hr>
+
+<hr>
+<!-- 4. Docker-Para-DEVs: -->
+#### 4. Docker-Para-DEVs: [docker-for-devs-4-php8-fpm-nginx-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-4-php8-fpm-nginx-mysql-stack-main)
+
+<hr>
+
+**References**
+
+...
+
+* [Repositório original](https://github.com/luismr/docker-for-devs-4-php8-fpm-nginx-mysql-stack) 
+* [Slides (in portuguese)](https://docs.google.com/presentation/d/1jLx_LNRzHI8NUX-8FaDOjcpzPmRfIg4bfuXGGNLGyeg/edit?usp=sharing)
+* [Video (in portuguese)](https://youtu.be/Bpzyut_fXeA) 
+
+<hr>
+
+<hr>
+<!-- x. Docker-Para-DEVs: -->
+#### x. Docker-Para-DEVs: [...]()
+
+<hr>
+
+**References**
+
+...
+
+* [Repositório original]() 
+* [Slides (in portuguese)]()
+* [Video (in portuguese)]()
+
+<hr>
+#### 
+#### 
