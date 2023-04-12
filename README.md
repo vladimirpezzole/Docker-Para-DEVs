@@ -1,10 +1,11 @@
 # Docker-Para-DEVs
 Excercícios utilizando Docker orientado por [Luis Machado Reis](https://github.com/luismr) 
 
-#### [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
+#### Docker-Para-DEVs 1. [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
 <hr>
 
 **References**
+
 Testar uma aplicação PHP no Debian e CentOS rodando no Apache
 
 Imagine que você tenha que testar o comportamento de uma aplicação PHP dentro de diferentes sistemas operacionais rodando com o Apache
@@ -24,7 +25,9 @@ Portas utilizadas neste exercício
 // Substitui a imagem **naqoda/centos-apache-php** que não constava mais no **docker.hub** por **identicum/centos-apache-php** //
 
 Para rodar execute:
+
 `docker compose up -d` ou `docker-compose up -d ` 
+
 <i>(dependendo da sua versão do **Docker  Compose**)</i>
 
 **docker-compose.yml:**
