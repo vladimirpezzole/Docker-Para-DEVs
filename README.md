@@ -3,6 +3,7 @@ Excercícios utilizando Docker orientado por [Luis Machado Reis](https://github.
 
 <hr>
 <!-- 1. Docker-Para-DEVs: -->
+
 #### 1. Docker-Para-DEVs: [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
 
 <hr>
@@ -60,6 +61,7 @@ services:
 
 <hr>
 <!-- 2. Docker-Para-DEVs: -->
+
 #### 2. Docker-Para-DEVs: [docker-for-devs-2-php8-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-2-php8-apache2-mysql-stack-main)
 
 <hr>
@@ -76,6 +78,7 @@ services:
 
 <hr>
 <!-- 3. Docker-Para-DEVs: -->
+
 #### 3. Docker-Para-DEVs: [docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main)
 
 <hr>
@@ -92,6 +95,7 @@ services:
 
 <hr>
 <!-- 4. Docker-Para-DEVs: -->
+
 #### 4. Docker-Para-DEVs: [docker-for-devs-4-php8-fpm-nginx-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-4-php8-fpm-nginx-mysql-stack-main)
 
 <hr>
@@ -108,6 +112,7 @@ services:
 
 <hr>
 <!-- x. Docker-Para-DEVs: -->
+
 #### x. Docker-Para-DEVs: [...]()
 
 <hr>
