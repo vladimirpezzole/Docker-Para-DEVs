@@ -4,13 +4,14 @@ services:
   php-apache-debian:
     image: php:8.1-apache
     ports:
-      - "8080:80"
+      - "9016:80"
     volumes:
       - ./src:/var/www/html
 
   php-apache-centos:
-    image: naqoda/centos-apache-php
+    image: identicum/centos-apache-php
     ports:
-      - "8090:80"
+      - "9018:80"
     volumes:
       - ./src:/var/www/app/public_html
+      - ./src:/var/www/html
