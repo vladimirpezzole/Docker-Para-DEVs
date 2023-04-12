@@ -4,7 +4,7 @@ Excercícios utilizando Docker orientado por [Luis Machado Reis](https://github.
 <hr>
 <!-- 1. Docker-Para-DEVs: -->
 
-#### 1. Docker-Para-DEVs: [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
+## 1. Docker-Para-DEVs: [docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-1-testing-php-app-in-several-php-and-linux-distros-main)
 
 <hr>
 
@@ -62,13 +62,17 @@ services:
 <hr>
 <!-- 2. Docker-Para-DEVs: -->
 
-#### 2. Docker-Para-DEVs: [docker-for-devs-2-php8-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-2-php8-apache2-mysql-stack-main)
+## 2. Docker-Para-DEVs: [docker-for-devs-2-php8-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-2-php8-apache2-mysql-stack-main)
 
 <hr>
 
 **References**
 
-...
+Pilha de Desenvolvimento PHP8 + MySQL + phpMyAdmin
+
+Como padronizar o ambiente de desenvolvimento e execução da sua aplicação PHP para o time de maneira fácil e rápida, só utilizando uma pilha Docker-compose.
+
+A aplicação PHP 8 usa Banco de Dados MariaDB 10 e a interface de Administração e Trabalho para o MySQL chamada phpMyAdmin.
 
 * [Repositório original](https://github.com/luismr/docker-for-devs-2-php8-apache2-mysql-stack) 
 * [Slides (in portuguese)](https://docs.google.com/presentation/d/1K0c4Op8kKbNOc3ymd0ob4YIKa5BAsGAs5ZTe4R5p_4I/edit?usp=sharing)
@@ -76,10 +80,17 @@ services:
 
 <hr>
 
+Portas utilizadas neste exercício
+**9014 => web - mysql**
+**9015 => web - phpMyAdmin**
+**9016 => web - apache**
+
+// 
+
 <hr>
 <!-- 3. Docker-Para-DEVs: -->
 
-#### 3. Docker-Para-DEVs: [docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main)
+## 3. Docker-Para-DEVs: [docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-3-php8-xdebug-apache2-mysql-stack-main)
 
 <hr>
 
@@ -96,7 +107,7 @@ services:
 <hr>
 <!-- 4. Docker-Para-DEVs: -->
 
-#### 4. Docker-Para-DEVs: [docker-for-devs-4-php8-fpm-nginx-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-4-php8-fpm-nginx-mysql-stack-main)
+## 4. Docker-Para-DEVs: [docker-for-devs-4-php8-fpm-nginx-mysql-stack-main](https://github.com/vladimirpezzole/Docker-Para-DEVs/tree/main/docker-for-devs-4-php8-fpm-nginx-mysql-stack-main)
 
 <hr>
 
@@ -113,7 +124,7 @@ services:
 <hr>
 <!-- x. Docker-Para-DEVs: -->
 
-#### x. Docker-Para-DEVs: [...]()
+## x. Docker-Para-DEVs: [...]()
 
 <hr>
 
