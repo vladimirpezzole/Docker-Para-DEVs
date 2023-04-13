@@ -24,7 +24,7 @@ services:
       - '9015:80'
     environment:
       - PMA_HOST=db
-      - PMA_ABSOLUTE_URI=http://localhost:8001/
+      - PMA_ABSOLUTE_URI=http://localhost:9015/
     depends_on:
       db:
         condition: service_healthy
