@@ -178,7 +178,9 @@ instala, habilita a extensão **mysqli** e atualiza as dependências debian da i
 
 **References**
 
-...
+Debug na Pilha de Desenvolvimento PHP8 + MySQL + phpMyAdmin
+
+Através do Docker iremos habilitar o xDebug para a aplicação PHP 8 usa Banco de Dados MariaDB 10 e a interface de Administração e Trabalho para o MySQL chamada phpMyAdmin.
 
 * [Repositório original](https://github.com/luismr/docker-for-devs-3-php8-xdebug-apache2-mysql-stack) 
 * [Slides (in portuguese)](https://docs.google.com/presentation/d/1s3oO_rSqlMGhkdH3pBDF_bnNH_spV_UuhJ23I1AGj5s/edit?usp=sharing)
@@ -195,7 +197,10 @@ instala, habilita a extensão **mysqli** e atualiza as dependências debian da i
 
 **References**
 
-...
+Com base na aplicação PHP feito no Vídeo "Caso #2" vamos executá-la no NGINX usando o PHP em modo FPM que é uma configuração é amplamente utilizada atualmente por desacoplar o PHP do ambiente do servidor HTTP.
+
+Isso é bom para manter a separação de responsabilidades, isolar problemas e fazer trace de erros com mais facilidade.
+
 
 * [Repositório original](https://github.com/luismr/docker-for-devs-4-php8-fpm-nginx-mysql-stack) 
 * [Slides (in portuguese)](https://docs.google.com/presentation/d/1jLx_LNRzHI8NUX-8FaDOjcpzPmRfIg4bfuXGGNLGyeg/edit?usp=sharing)
