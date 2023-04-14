@@ -1,4 +1,7 @@
 <?php
+echo '<a href="phpinfo.php">phpinfo.php</a><br>';
+echo '<a href="xdebug.php">xdebug.php</a><br><br>';
+
 $user = "username";
 $pass = "password";
 $host = "db";
@@ -42,4 +45,3 @@ if ($result->num_rows > 0) {
 
 $conn->close();
 
-?>
