@@ -410,7 +410,7 @@ instala, habilita a extensão **mysqli** e atualiza as dependências debian da i
 
 <hr>
 
-<hr>
+<hr>*************
 <!-- x. Docker-Para-DEVs: -->
 
 ## x. Docker-Para-DEVs: [...]()
